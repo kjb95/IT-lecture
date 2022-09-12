@@ -6,9 +6,8 @@
 
 ## Webpack 모드
 
--   development : 개발 모드
--   production : 배포 모드
--   none : 기본 최적화 옵션 설정 해제
+-   development : 개발 모드를 의미하며 코드가 압축되지 않고, 난독화가 되지 않은 상태
+-   production : 배포 모드를 의미하며 코드가 압축된 상태이며, 난독화가 된 상태
 
 ## 로더
 
