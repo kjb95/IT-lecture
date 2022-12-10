@@ -176,5 +176,6 @@
 
 ## View Resolver
 
--   데이터를 JSON 형태로 전달할지, HTML 형태로 전달할지 등 View를 어떤 것을 사용할지 설정하는 역할
--   참고: https://needneo.tistory.com/204
+-   뷰 이름(String 타입)을 디스패처 서블릿에게 뷰 정보를 전달하는 경우 사용
+-   뷰 이름으로 실제로 사용할 뷰 객체를 결정
+-   참고: https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=kbh3983&logNo=220778740252
